@@ -32,4 +32,4 @@ FRONT END
 2. LENGUAJE DE SCRIPT     
      JAVASCRIPT, CSS y HTML
      BOOTSTRAP v5.3 para crear componentes dinamicos y      
-     SWEETALERT para creacion de alertas o modales dinamicos
+     SWEETALERT para creación de alertas o modales dinamicos
