@@ -22,7 +22,7 @@ BACKEND
 
 5. PRINCIPIOS SOLID
      
-6. ORM (Mapeo Relacional de Objetos)
+6. ORM (Mapeo Relacional de Objetos)   
      ENTITY FRAMEWORK CORE
 
 FRONT END
