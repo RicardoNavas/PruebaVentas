@@ -1,5 +1,5 @@
 Hola que tal amigos. Les saluda el Ingeniero RICARDO NAVAS un Analista Programador Móvil y Web Full Stack, el cual en el presente repositorio pueden observar el Demo de la Aplicación Web relacionado con el Giro de Negocio Comercial para poder realizar o llevar a cabo ventas importantes. 
-En sentido técnico he utilizado las siguientes herramientas para el desarrollo del Demo de Facturación:
+En sentido técnico he utilizado las siguientes herramientas para el desarrollo del presente proyecto:
 
 DESARROLLO WEB:
 
