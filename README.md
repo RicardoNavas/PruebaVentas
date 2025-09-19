@@ -14,7 +14,7 @@ BACKEND
 2. ARQUITECTURA MVC  
      Modelo Vista Controlador
 
-3.  PATRON DE DISEÑO 
+3.  PATRON DE DISEÑO  
      Singleton
 
 4. LENGUAJE DE PROGRAMACION
