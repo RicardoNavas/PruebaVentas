@@ -29,7 +29,7 @@ FRONT END
 
 1.  NET 8
 
-2. LENGUAJE DE SCRIPT Y LENGUAGES WEB
+2. LENGUAJE DE SCRIPT 
      JAVASCRIPT, CSS y HTML
      BOOTSTRAP v5.3 para crear componentes dinamicos
      SWEETALERT para creacion de alertas o modales dinamicos
